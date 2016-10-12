@@ -1,0 +1,17 @@
+{
+  "name": "ausnz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "travel",
+    "australia",
+    "new",
+    "zealand"
+  ],
+  "author": "gotdibbs",
+  "license": "MIT"
+}
