@@ -1,0 +1,12 @@
+.container::before, .container::after {
+    content: "";
+    display: table;
+}
+
+.container::after {
+    clear: both;
+}
+
+.container {
+    zoom: 1;
+}

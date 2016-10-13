@@ -1,0 +1,320 @@
+{
+    "title": "Chicago <i class=\"fa fa-arrow-right\"></i> Sydney <i class=\"fa fa-arrow-right\"></i> New Zealand",
+    "items": [
+        {
+            "date": "February 11, 2017",
+            "dayType": "<i class=\"fa fa-plane\"></i> Travel Day",
+            "airports": [
+                "MDW",
+                "SFO"
+            ],
+            "destinations": [
+                "Chicago",
+                "San Francisco"
+            ],
+            "lodging": "Aloft San Francisco Airport",
+            "activities": [
+                "Golden Gate Bridge",
+                "Sutro Baths"
+            ]
+        },
+        {
+            "date": "February 12, 2017",
+            "dayType": "<i class=\"fa fa-plane\"></i> Travel Day",
+            "airports": [
+                "SFO",
+                "AKL",
+                "SYD"
+            ],
+            "destinations": [
+                "San Francisco",
+                "Sydney"
+            ],
+            "lodging": "Air New Zealand",
+            "activities": [
+                "Golden Gate Park",
+                "San Francisco Botanical Garden"
+            ]
+        },
+        {
+            "date": "February 13, 2017",
+            "dayType": "<i class=\"fa fa-plane\"></i> Travel Day",
+            "airports": [
+                "SFO",
+                "AKL",
+                "SYD"
+            ]
+        },
+        {
+            "date": "February 14, 2017",
+            "destinations": [
+                "Sydney"
+            ],
+            "lodging": "Mad Monkey Backpackers Kings Cross",
+            "activities": [
+                "Opera House",
+                "Downtown Sydney"
+            ]
+        },
+        {
+            "date": "February 15, 2017",
+            "dayType": "<i class=\"fa fa-users\"></i> Group Tour",
+            "destinations": [
+                "Sydney"
+            ],
+            "lodging": "Mad Monkey Backpackers Kings Cross",
+            "activities": [
+                "Blue Mountains Day Trip",
+                "Katoomba Scenic World",
+                "Jamison Valley/Three Sisters rock formations",
+                "Echo Point",
+                "Featherdale Wildlife Park",
+                "Parramatta River cruise"
+            ]
+        },
+        {
+            "date": "February 16, 2017",
+            "dayType": "<i class=\"fa fa-users\"></i> Group Tour",
+            "destinations": [
+                "Sydney"
+            ],
+            "lodging": "Mad Monkey Backpackers Kings Cross",
+            "activities": [
+                "Sydney City Tour",
+                "Bondi Beach",
+                "Sydney Harbour Luncheon Cruise"
+            ]
+        },
+        {
+            "date": "February 17, 2017",
+            "dayType": "<i class=\"fa fa-users\"></i> Travel Day",
+            "airports": [
+                "SYD",
+                "CHC"
+            ],
+            "destinations": [
+                "Sydney",
+                "Christchurch"
+            ],
+            "lodging": "Haka Lodge Christchurch",
+            "activities": [
+                "Sydney Bridge Climb"
+            ]
+        },
+        {
+            "date": "February 18, 2017",
+            "dayType": "<i class=\"fa fa-bus\"></i> Haka Tours",
+            "destinations": [
+                "Christchurch",
+                "Lake Tekapo"
+            ],
+            "lodging": "Lake Tekapo Hotel",
+            "activities": [
+                "Downtown Christchurch",
+                "Lake Tekapo"
+            ]
+        },
+        {
+            "date": "February 19, 2017",
+            "dayType": "<i class=\"fa fa-bus\"></i> Haka Tours",
+            "destinations": [
+                "Lake Tekapo",
+                "Queenstown"
+            ],
+            "lodging": "Haka Lodge Queenstown",
+            "activities": [
+                "Wine Tasting in Otago",
+                "Salmon Farms",
+                "Queenstown Gondola Ride"
+            ]
+        },
+        {
+            "date": "February 20, 2017",
+            "dayType": "<i class=\"fa fa-bus\"></i> Haka Tours",
+            "destinations": [
+                "Queenstown"
+            ],
+            "lodging": "Haka Lodge Queenstown",
+            "activities": [
+                "Milford Sound Trip"
+            ]
+        },
+        {
+            "date": "February 21, 2017",
+            "dayType": "<i class=\"fa fa-bus\"></i> Haka Tours",
+            "destinations": [
+                "Queenstown",
+                "Wanaka"
+            ],
+            "lodging": "Wanaka Hotel",
+            "activities": [
+                "Arrowtown",
+                "Cardrona - New Zealand's Oldest Pub",
+                "Wanaka"
+            ]
+        },
+        {
+            "date": "February 22, 2017",
+            "dayType": "<i class=\"fa fa-bus\"></i> Haka Tours",
+            "destinations": [
+                "Wanaka",
+                "Franz Josef"
+            ],
+            "lodging": "Franz Josef Hotel",
+            "activities": [
+                "Mt. Iron Hike",
+                "Random Road Trip Stops"
+            ]
+        },
+        {
+            "date": "February 23, 2017",
+            "dayType": "<i class=\"fa fa-bus\"></i> Haka Tours",
+            "destinations": [
+                "Franz Josef"
+            ],
+            "lodging": "Franz Josef Hotel",
+            "activities": [
+                "Glacier Helicopter Hike",
+                "Farewell Party"
+            ]
+        },
+        {
+            "date": "February 24, 2017",
+            "dayType": "<i class=\"fa fa-bus\"></i> Haka Tours",
+            "destinations": [
+                "Franz Josef",
+                "Christchurch"
+            ],
+            "lodging": "Haka Lodge Christchurch",
+            "activities": [
+                "Hokitika Greenstone Factory",
+                "National Kiwi Centre (time permitting)",
+                "Tranz Alpine Train Crossing"
+            ]
+        },
+        {
+            "date": "February 25, 2017",
+            "dayType": "<i class=\"fa fa-birthday-cake\"></i> Birthday",
+            "destinations": [
+                "Christchurch"
+            ],
+            "lodging": "Christchurch Hotel",
+            "activities": [
+                "Downtown Christchurch",
+                "Relax"
+            ]
+        },
+        {
+            "date": "February 26, 2017",
+            "dayType": "<i class=\"fa fa-plane\"></i> Travel Day",
+            "airports": [
+                "CHC",
+                "AKL"
+            ],
+            "destinations": [
+                "Christchurch",
+                "Auckland"
+            ],
+            "lodging": "Haka Lodge Auckland",
+            "activities": [
+                "Downtown Auckland"
+            ]
+        },
+        {
+            "date": "February 27, 2017",
+            "dayType": "<i class=\"fa fa-users\"></i> Group Tour",
+            "destinations": [
+                "Auckland"
+            ],
+            "lodging": "Haka Lodge Auckland",
+            "activities": [
+                "Hobbiton Road Trip"
+            ]
+        },
+        {
+            "date": "February 28, 2017",
+            "dayType": "<i class=\"fa fa-bus\"></i> Flying Kiwi Tours",
+            "destinations": [
+                "Auckland",
+                "Bay of Islands"
+            ],
+            "lodging": "Campsite",
+            "activities": [
+                "Beach stop",
+                "Paihia",
+                "Mangrove walk or bike to Thundering Falls"
+            ]
+        },
+        {
+            "date": "March 1, 2017",
+            "dayType": "<i class=\"fa fa-bus\"></i> Flying Kiwi Tours",
+            "destinations": [
+                "Bay of Islands"
+            ],
+            "lodging": "Campsite",
+            "activities": [
+                "Swimming with Dolphins",
+                "Sailing the Bay of Islands"
+            ]
+        },
+        {
+            "date": "March 2, 2017",
+            "dayType": "<i class=\"fa fa-bus\"></i> Flying Kiwi Tours",
+            "destinations": [
+                "Bay of Islands",
+                "Orewa"
+            ],
+            "lodging": "Campsite",
+            "activities": [
+                "Sand Boarding Opononi",
+                "Hot Pools and Slides"
+            ]
+        },
+        {
+            "date": "March 3, 2017",
+            "dayType": "<i class=\"fa fa-bus\"></i> Flying Kiwi Tours",
+            "destinations": [
+                "Waiwera",
+                "Auckland"
+            ],
+            "lodging": "Haka Lodge Auckland",
+            "activities": [
+                "Downtown Auckland",
+                "Relax"
+            ]
+        },
+        {
+            "date": "March 4, 2017",
+            "dayType": "<i class=\"fa fa-plane\"></i> Travel Day",
+            "airports": [
+                "AKL",
+                "HNL",
+                "SFO"
+            ],
+            "destinations": [
+                "Auckland",
+                "San Francisco"
+            ],
+            "lodging": "Aloft San Francisco",
+            "activities": [
+                "Recovery"
+            ]
+        },
+        {
+            "date": "March 5, 2017",
+            "dayType": "<i class=\"fa fa-plane\"></i> Travel Day",
+            "airports": [
+                "SFO",
+                "MDW"
+            ],
+            "destinations": [
+                "San Francisco",
+                "Chicago"
+            ],
+            "lodging": "Home",
+            "activities": [
+                "Recovery"
+            ]
+        }
+    ]
+}

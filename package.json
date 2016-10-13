@@ -2,9 +2,13 @@
   "name": "ausnz",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "nwb build-react-app",
+    "clean": "nwb clean-app",
+    "start": "nwb serve-react-app",
+    "test": "nwb test",
+    "test:watch": "nwb test --server"
   },
   "keywords": [
     "travel",
@@ -12,6 +16,22 @@
     "new",
     "zealand"
   ],
+  "devDependencies": {
+    "autoprefixer": "^6.4.1",
+    "classnames": "^2.2.5",
+    "cssnano": "^3.7.5",
+    "nwb": "0.11.x",
+    "precss": "^1.4.0",
+    "react": "^15.3.2",
+    "react-addons-update": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-redux": "^4.4.5",
+    "redux": "^3.6.0",
+    "redux-devtools": "^3.3.1",
+    "redux-logger": "^2.6.1",
+    "redux-thunk": "^2.1.0",
+    "sanitize-html": "^1.13.0"
+  },
   "author": "gotdibbs",
   "license": "MIT"
 }

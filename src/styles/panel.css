@@ -1,0 +1,17 @@
+.panel {
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    text-align: right;
+    width: 45%;
+}
+
+.panel-header {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.panel-header-light {
+    font-size: 18px;
+    font-weight: 100;
+}
