@@ -1,0 +1,15 @@
+.container {
+    display: inline-block;
+    height: 100vh;
+    overflow: auto;
+    position: relative;
+    width: 40vw;
+}
+
+@media only screen and (max-width: 480px) {
+    .container {
+        height: auto;
+        display: block;
+        width: 100vw;
+    }
+}

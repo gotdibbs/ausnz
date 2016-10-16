@@ -1,0 +1,19 @@
+.container {
+    display: inline-block;
+    height: 100vh;
+    overflow: hidden;
+    width: 60vw;
+}
+
+.map {
+    height: 100%;
+    width: 100%
+}
+
+@media only screen and (max-width: 480px) {
+    .container {
+        height: 70vh;
+        display: block;
+        width: 100vw;
+    }
+}

@@ -1,5 +1,5 @@
 import Immutable from 'immutable'; 
-import itinerary from './itinerary.json'
+import itinerary from 'data/itinerary.json'
 
 export const GET_ITINERARY = 'GET_ITINERARY';
 export const SET_ITINERARY = 'SET_ITINERARY';

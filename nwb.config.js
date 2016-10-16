@@ -33,12 +33,11 @@ var config = {
         alias: {
           containers: path.resolve('src/containers'),
           components: path.resolve('src/components'),
-          stores: path.resolve('src/stores'),
+          data: path.resolve('src/data'),
           utils: path.resolve('src/utils'),
           styles: path.resolve('src/styles'),
-          actions: path.resolve('src/stores/actions'),
+          actions: path.resolve('src/actions'),
           model: path.resolve('src/model'),
-          data: path.resolve('src/data')
         }
       },
       output: {

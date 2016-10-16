@@ -1,15 +1,15 @@
 import React, { PropTypes } from 'react';
 import GlobalStyles from 'styles/styles.css';
 import Styles from './styles.css';
-import Header from 'containers/Header/header';
-import Timeline from 'containers/Timeline/timeline';
+import Map from 'components/Map/map';
+import Itinerary from 'components/Itinerary/itinerary';
 
 class App extends React.Component {
     render () {
         return (
-            <main className={ Styles.app }>
-                <Header />
-                <Timeline />
+            <main className={ Styles.container }>
+                <Itinerary />
+                <Map />
             </main>
         );
     }

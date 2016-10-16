@@ -1,4 +1,9 @@
-.app {
-    margin: 0 auto;
-    width: 640px;
+.container {
+    overflow: hidden;
+}
+
+@media only screen and (max-width: 480px) {
+    .container {
+        overflow: auto;
+    }
 }

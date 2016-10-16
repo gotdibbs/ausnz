@@ -1,5 +1,60 @@
 {
     "title": "Chicago <i class=\"fa fa-arrow-right\"></i> Sydney <i class=\"fa fa-arrow-right\"></i> New Zealand",
+    "start": "Chicago",
+    "destinations": {
+        "Chicago": {
+            "lat": 41.786776,
+            "lng": -87.752188
+        },
+        "San Francisco": {
+            "lat": 37.621313,
+            "lng": -122.378955
+        },
+        "Sydney": {
+            "lat": -33.868820,
+            "lng": 151.209296
+        },
+        "Christchurch": {
+            "lat": -43.532054,
+            "lng": 172.636225
+        },
+        "Lake Tekapo": {
+            "lat": -44.004674,
+            "lng": 170.477121
+        },
+        "Queenstown": {
+            "lat": -45.031162,
+            "lng": 168.662644
+        },
+        "Wanaka": {
+            "lat": -44.703181,
+            "lng": 169.132098
+        },
+        "Franz Josef": {
+            "lat": -43.387329,
+            "lng": 170.183288
+        },
+        "Auckland": {
+            "lat": -36.848460,
+            "lng": 174.763332
+        },
+        "Bay of Islands": {
+            "lat": -35.184370,
+            "lng": 174.164616
+        },
+        "Orewa": {
+            "lat": -36.581552,
+            "lng": 174.689952
+        },
+        "Waiwera": {
+            "lat": -36.543368,
+            "lng": 174.703911
+        },
+        "Honolulu": {
+            "lat": 21.306944,
+            "lng": -157.858333
+        }
+    },
     "items": [
         {
             "date": "February 11, 2017",
@@ -28,6 +83,7 @@
             ],
             "destinations": [
                 "San Francisco",
+                "Auckland",
                 "Sydney"
             ],
             "lodging": "Air New Zealand",
@@ -50,7 +106,7 @@
             "destinations": [
                 "Sydney"
             ],
-            "lodging": "Mad Monkey Backpackers Kings Cross",
+            "lodging": "Sydney Hostel",
             "activities": [
                 "Opera House",
                 "Downtown Sydney"
@@ -62,7 +118,7 @@
             "destinations": [
                 "Sydney"
             ],
-            "lodging": "Mad Monkey Backpackers Kings Cross",
+            "lodging": "Sydney Hostel",
             "activities": [
                 "Blue Mountains Day Trip",
                 "Katoomba Scenic World",
@@ -78,7 +134,7 @@
             "destinations": [
                 "Sydney"
             ],
-            "lodging": "Mad Monkey Backpackers Kings Cross",
+            "lodging": "Sydney Hostel",
             "activities": [
                 "Sydney City Tour",
                 "Bondi Beach",
@@ -293,6 +349,7 @@
             ],
             "destinations": [
                 "Auckland",
+                "Honolulu",
                 "San Francisco"
             ],
             "lodging": "Aloft San Francisco",
